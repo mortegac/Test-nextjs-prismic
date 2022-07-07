@@ -1,0 +1,140 @@
+{
+  "slices": {
+    "ImageWithCaption": {
+      "default": {
+        "primary": {
+          "caption": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "RowOfItems": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "CTAtext": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "items": {
+          "itemEmoji": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "itemTitle": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "itemDescription": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      },
+      "noDescription": {
+        "primary": {}
+      },
+      "noCta": {
+        "primary": {}
+      },
+      "titleAndItems": {
+        "primary": {}
+      },
+      "dandelion": {
+        "primary": {}
+      }
+    },
+    "HeroSlice": {
+      "oneCta": {
+        "primary": {}
+      },
+      "dandelion": {
+        "primary": {
+          "inputPlaceholder": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "ctaText": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "titleHtml": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "LogoList": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "items": {
+          "logo": {
+            "content": "https://unsplash.com/s/photos/logos"
+          }
+        }
+      },
+      "noDescription": {
+        "primary": {}
+      },
+      "noTitle": {
+        "primary": {}
+      }
+    }
+  },
+  "_cts": {
+    "page": {},
+    "homepage": {},
+    "Header": {},
+    "footer": {}
+  }
+}

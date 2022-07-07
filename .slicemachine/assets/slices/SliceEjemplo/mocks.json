@@ -1,0 +1,24 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "slice_ejemplo",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Matrix integrated vortals",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Nisi cillum ut esse id commodo irure dolore tempor.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

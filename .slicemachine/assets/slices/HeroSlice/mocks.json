@@ -1,0 +1,215 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "hero_slice",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Disintermediate dynamic partnerships",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Anim proident laborum exercitation quis occaecat sint deserunt ut. Nulla enim culpa officia deserunt magna in sit esse et adipisicing proident. Ut ut quis esse in irure amet laborum quis aliqua velit eu.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=900&h=500&fit=crop"
+      }
+    }
+  },
+  {
+    "variation": "twoCtas",
+    "name": "TwoCTAs",
+    "slice_type": "hero_slice",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Embrace B2B communities",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Id sit pariatur tempor cillum est duis qui elit laborum fugiat.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=900&h=500&fit=crop"
+      },
+      "primaryCtaText": [
+        {
+          "type": "paragraph",
+          "text": "Aute mollit minim laboris eu elit eiusmod in et sit. Anim sit excepteur aute esse magna Lorem et do velit est consectetur nulla sunt.",
+          "spans": []
+        }
+      ],
+      "secondaryCtaText": [
+        {
+          "type": "paragraph",
+          "text": "Velit excepteur excepteur enim reprehenderit magna. Ad quis mollit nisi excepteur cillum minim.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "oneCta",
+    "name": "OneCTA",
+    "slice_type": "hero_slice",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Evolve rich paradigms",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Quis qui dolore consequat. Et occaecat minim excepteur deserunt nisi nisi qui occaecat ad veniam aliqua. Anim dolore pariatur amet ea amet aute aliquip.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+      },
+      "primaryCtaText": [
+        {
+          "type": "paragraph",
+          "text": "Proident esse quis labore eu esse tempor consectetur consectetur eiusmod magna cillum enim cillum consequat ipsum. Occaecat exercitation ad culpa deserunt veniam Lorem incididunt in magna in est commodo fugiat tempor.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "partnerBanner",
+    "name": "PartnerBanner",
+    "slice_type": "hero_slice",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Optimize granular platforms",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Amet officia deserunt fugiat non irure dolore duis reprehenderit reprehenderit. Ipsum ullamco sunt qui eiusmod dolor. Esse sunt veniam id non nulla reprehenderit amet excepteur veniam amet.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=900&h=500&fit=crop"
+      },
+      "partnerLogo": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=900&h=500&fit=crop"
+      },
+      "partnerText": [
+        {
+          "type": "paragraph",
+          "text": "Tempor aliquip aute incididunt incididunt aliqua tempor ad in ipsum aute labore laborum amet est esse.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "dandelion",
+    "name": "Dandelion",
+    "slice_type": "hero_slice",
+    "items": [],
+    "primary": {
+      "titleHtml": [
+        {
+          "type": "paragraph",
+          "text": "Non commodo eu aliquip veniam culpa aliquip et aute quis sit.",
+          "spans": []
+        }
+      ],
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Grow cross-media e-commerce",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Occaecat Lorem aliqua ad consectetur enim pariatur velit Lorem.",
+          "spans": []
+        }
+      ],
+      "inputPlaceholder": [
+        {
+          "type": "paragraph",
+          "text": "Ullamco exercitation irure consectetur quis fugiat commodo dolor aute ut excepteur ipsum aute dolore. Qui laboris irure enim ullamco laborum dolore pariatur eiusmod anim et eiusmod cillum excepteur velit. Magna anim aliqua veniam aliqua ea qui id cillum fugiat excepteur.",
+          "spans": []
+        }
+      ],
+      "ctaText": [
+        {
+          "type": "paragraph",
+          "text": "In occaecat ex elit consectetur ipsum amet exercitation cupidatat commodo sunt do id do Lorem. Cupidatat in cillum voluptate culpa nostrud et cupidatat minim deserunt do ex. Occaecat magna consectetur do proident mollit veniam et.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?w=900&h=500&fit=crop"
+      }
+    }
+  }
+]

@@ -1,0 +1,3 @@
+[submodule "lib/RMT_Common_Components"]
+	path = lib/RMT_Common_Components
+	url = git@github.com:Euronet-Worldwide/RMT_Common_Components.git

@@ -1,0 +1,14 @@
+{
+  "id": "fff81be2-5151-4da7-a2ff-bf8216eefa0d",
+  "uid": "unde-et-magnam",
+  "type": "footer",
+  "data": {
+    "example": [
+      {
+        "type": "paragraph",
+        "text": "Lorem ad sunt qui nulla cillum ut anim ea irure excepteur. Veniam cupidatat laboris excepteur nisi labore laboris consectetur exercitation minim adipisicing. Laborum sunt anim sint.",
+        "spans": []
+      }
+    ]
+  }
+}
