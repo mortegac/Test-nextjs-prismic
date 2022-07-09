@@ -1,6 +1,5 @@
-<img align="right" src="https://app.riamoneytransfer.com/favicon-32x32.png?v=b5c554880e0b1566c54e5f8b0c9985b0">
 
-# RIA Public Site (NextJs)
+# Test NExts (NextJs)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/20d11a7c-b8b6-4b9c-a3ff-723038935fc0/deploy-status)](https://app.netlify.com/sites/dandelion-preview/deploys)
 
